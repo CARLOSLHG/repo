@@ -2,11 +2,11 @@
     background-color: #c5c5c5;
     width: 1140px;
     background-image: url("https://carloslhg.github.io/algorithmics/img/ojos.jpg");
-    background-size: 50%;
+    background-size: 75%;
     background-position: left bottom;
     background-position-x: 280px;
     box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;    
 }
 
 #logo {
@@ -14,7 +14,7 @@
     width: 200px;
     height: 160px;
     text-align: center;
-    padding: 10px;
+    padding: 40px;
 }
 
 #nav {
