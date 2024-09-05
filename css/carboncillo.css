@@ -27,7 +27,7 @@ button {
 
 header {
     width: 50%;
-    height: 160px; /* Ajusta la altura según lo que necesites */
+    height: 50%; /* Ajusta la altura según lo que necesites */
     background-image: url('https://carloslhg.github.io/algorithmics/img/ojos.jpg');
     background-size: cover; /* Hace que la imagen cubra todo el header */
     background-position: right; /* Centra la imagen en el header */
