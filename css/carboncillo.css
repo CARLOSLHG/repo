@@ -41,16 +41,12 @@ header {
     height: 400px;
     padding: 0px auto;
     margin: 40px 0px 30px 0px;
-    background-color: #fff;
-    background-image: url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
-    background-size: 50%;
-    background-position: right;
-    background-repeat: no-repeat; 
+    
 }
 
 h1 {
     font-family: "Indie Flower", cursive;
-    padding: 0px auto;
+    padding: 20px;
     font-weight: 400;
     font-style: normal;
     font-size: 100px;
@@ -58,7 +54,7 @@ h1 {
 
 h3 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    padding: 20px;
+    padding: 10px;
     font-size: 50px;
 }
 
@@ -74,3 +70,23 @@ main{
     align-content: center;
 }
 
+#box-intro {
+    align-self: center;
+}
+
+section {
+    text-align: left;
+    padding: 0 20 0 80px;
+    margin-left: 0 0 0 20px;
+    
+}
+
+#box-intro {
+    width: 100%;
+    background-color: #fff;
+    background-image: url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
+    background-size: 100%;
+    background-position:center;
+    background-position-x: right;
+    background-repeat: no-repeat; 
+}
