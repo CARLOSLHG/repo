@@ -25,11 +25,12 @@ button {
     cursor: pointer;
 }
 
-header {
-    width: 50%;
-    height: 50%; /* Ajusta la altura según lo que necesites */
+/* header {
+    width: 25%;
+    height: 200px;
     background-image: url('https://carloslhg.github.io/algorithmics/img/ojos.jpg');
-    background-size: cover; /* Hace que la imagen cubra todo el header */
-    background-position: right; /* Centra la imagen en el header */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
 }
+*/
