@@ -5,6 +5,7 @@
     background-size: 50%;
     background-position: left bottom;
     background-position-x: 280px;
+    filter: blur(10px);
     background-repeat: no-repeat; 
 }
 
