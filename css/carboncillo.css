@@ -25,12 +25,7 @@ button {
     cursor: pointer;
 }
 
-/* header {
-    width: 25%;
-    height: 200px;
-    background-image: url('https://carloslhg.github.io/algorithmics/img/ojos.jpg');
-    background-size: cover;
-    background-position: right;
-    background-repeat: no-repeat;
+ header {
+    align: center;
 }
-*/
+
