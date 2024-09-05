@@ -1,1 +1,10 @@
+#encabezado {
+    background-color: #707070;
+}
 
+#logo {
+    margin:0 left;
+    border: 2px solid brown;
+    width: 100px;
+    height: 80px;
+}
