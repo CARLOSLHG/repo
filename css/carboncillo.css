@@ -1,12 +1,13 @@
 #contenedor {
-    background-color: #c5c5c5;
+    align-self: auto;
     width: 1140px;
+    background-color: #c5c5c5;
     background-image: url("https://carloslhg.github.io/algorithmics/img/ojos.jpg");
     background-size: 75%;
     background-position: left bottom;
     background-position-x: 280px;
-    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);
-    background-repeat: no-repeat;    
+    background-repeat: no-repeat;
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
 }
 
 #logo {
@@ -30,8 +31,46 @@ button {
     cursor: pointer;
 }
 
- header {
+header {
     width: 80%;
     margin: 0 auto;    
+}
+
+#intro {
+    width: 1024px;
+    height: 400px;
+    padding: 0px auto;
+    margin: 40px 0px 30px 0px;
+    background-color: #fff;
+    background-image: url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
+    background-size: 50%;
+    background-position: right;
+    background-repeat: no-repeat; 
+}
+
+h1 {
+    font-family: "Indie Flower", cursive;
+    padding: 0px auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+}
+
+h3 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    font-size: 50px;
+}
+
+body {
+    align-content: center;
+}
+
+#enunciado {
+    position: relative;
+}
+
+main{
+    align-content: center;
 }
 
