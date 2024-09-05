@@ -2,7 +2,7 @@
     align-self: auto;
     width: 1140px;
     background-color: #c5c5c5;
-    background-image: url("./img/ojos.jpg");
+    background-image: url("https://carloslhg.github.io/algorithmics/img/ojos.jpg");
     background-size: 75%;
     background-position: left bottom;
     background-position-x: 280px;
@@ -42,7 +42,7 @@ header {
     padding: 0px auto;
     margin: 40px 0px 30px 0px;
     background-color: #fff;
-    background-image: url("./img/carbon4.jpg");
+    background-image: url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
     background-size: 50%;
     background-position: right;
     background-repeat: no-repeat; 
