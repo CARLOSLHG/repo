@@ -30,3 +30,7 @@ table{
     text-align: center;
     border-collapse: collapse;
 }
+
+td{
+    border: 1px solid brown;
+}
