@@ -1,20 +1,19 @@
 #encabezado {
-    align: center;
     background-color: #c5c5c5;
-    width: 1140px;
-    height: 180px;
+    width: 1140px;    
 }
 
 #logo {
     margin:0 left;
-    width: 90%;
-    height: 90%;
+    width: 200px;
+    height: 160px;
     text-align: center;
+    padding: 10px;
 }
 
 #nav {
     background-color: #f4f4f4;
-    padding: 1px;
+    padding: 10px;
     text-align: right;
 }
 
