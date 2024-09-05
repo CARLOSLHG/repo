@@ -5,7 +5,7 @@
     background-size: 50%;
     background-position: left bottom;
     background-position-x: 280px;
-    filter: blur(10px);
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);
     background-repeat: no-repeat; 
 }
 
