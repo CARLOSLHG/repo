@@ -29,6 +29,6 @@ header {
             height: 400px; /* Ajusta la altura según lo que necesites */
             background-image: url('https://via.placeholder.com/1200x400');
             background-size: cover; /* Hace que la imagen cubra todo el header */
-            background-position: center; /* Centra la imagen en el header */
+            background-position: right; /* Centra la imagen en el header */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
