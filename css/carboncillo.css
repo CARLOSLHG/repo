@@ -77,13 +77,6 @@ main{
     align-self: center;
 }
 
-section {
-    text-align: left;
-    padding: 0 20 0 80px;
-    margin-left: 0 0 0 20px;
-    
-}
-
 #box-intro {
     width: 100%;
     background-color: #fff;
