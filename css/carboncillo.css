@@ -1,6 +1,10 @@
 #encabezado {
     background-color: #c5c5c5;
     width: 1140px;
+    background-image: url('./img/ojos.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #logo {
@@ -27,5 +31,6 @@ button {
  header {
     width: 80%;
     margin: 0 auto;
+    
 }
 
