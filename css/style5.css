@@ -75,3 +75,8 @@ a {
     border-radius: 20px;
     padding: 10px;
 }
+
+footer {
+    width: 80%;
+    margin: 0 auto;
+}
