@@ -1,1 +1,61 @@
+header {
+    background-color: blanchedalmond;
+    padding: 5px 15px 5px 15px;
+    border-radius: 25px;
+    align-content: center;
+    margin: 10px auto;
+    width: 80%;
 
+}
+
+header h1 {
+    color: #62e22b;
+    text-align: center;
+}
+
+header p {
+    color: #333333;
+    text-align: center;
+}
+
+main {
+    padding: 10px;
+    margin: 0 auto;
+    background-color: beige;
+    align-content: center;
+}
+
+main th {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #6500c3;    
+}
+
+main td {
+    font-size: 20px;
+    color: #333333;
+    border-top:1px solid #601010;
+}
+
+main table {
+    background-color: #cfcfcf;
+    border-radius: 25px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+footer h1 {
+    color: #ff0f0f;
+}
+
+main img {
+    width: 35%;    
+}
+
+main p {
+    text-align: center;
+}
+
+main h1 {
+    text-align: center;
+}
