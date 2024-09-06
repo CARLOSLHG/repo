@@ -67,7 +67,8 @@ body {
 
 main{
     width: 100%;
-    margin: 0 auto;
+    margin: 0 auto; 
+    
 }
 
 #box-intro {
@@ -97,9 +98,9 @@ footer {
     color:white;
     text-align:center;
     padding:4px;
+    position: fixed;
 }
 
 p {
-    text-indent: 40px; 
+    text-indent: 20px;
 }
-
