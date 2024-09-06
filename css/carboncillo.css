@@ -98,4 +98,5 @@ footer {
     color:white;
     text-align:center;
     padding:4px;
+    position: fixed;
 }
