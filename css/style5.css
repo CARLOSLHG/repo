@@ -59,3 +59,19 @@ main p {
 main h1 {
     text-align: center;
 }
+
+main h3 {
+    width: 200px;
+    text-align: center;
+    margin: 5px auto;
+    
+}
+
+a {
+    text-decoration: 0;
+    color: white;
+    background-color: #333333;
+    border:2px solid #ffffff;
+    border-radius: 20px;
+    padding: 10px;
+}
