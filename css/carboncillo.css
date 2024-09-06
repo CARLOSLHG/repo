@@ -1,3 +1,17 @@
+/* listado css de la pagina */
+
+
+header {
+    width: 100%;
+    margin: 0 auto;    
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 #contenedor {
     margin: 0 auto; 
     width: 80%;
@@ -24,9 +38,11 @@
     text-align: right;
 }
 
-header {
-    width: 80%;
-    margin: 0 auto;    
+#titulo-secundario {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px;
+    font-size: 50px;
+    color:#008B8B;    
 }
 
 #titulo-principal {
@@ -35,17 +51,6 @@ header {
     font-style: normal;
     font-size: 100px;
     color: #333333;
-}
-
-#titular {
-    padding: 100px 0px 10px 0px;
-}
-
-#titulo-secundario {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    padding: 5px;
-    font-size: 50px;
-    color:#008B8B;    
 }
 
 html, body {
@@ -60,28 +65,17 @@ body {
     min-height: 100vh;
 }
 
-#enunciado {    
-    background-color: #fff;
-    background-image: url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
-    background-size: 80%;
-    background-position:center;
-    background-position-x: right;
-    background-repeat: no-repeat;       
-}
-
 main {
     flex-grow: 1; 
 }
 
-#box-intro {
-    margin: 0 auto; 
-    width: 100%;
+#enunciado {    
     background-color: #fff;
-    background-image: url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
+    background-image: url("./img/carbon4.jpg");
     background-size: 80%;
     background-position:center;
     background-position-x: right;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;       
 }
 
 .boton-nav {
@@ -92,7 +86,12 @@ main {
     background-color: #333333;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 0px;
+}
+
+p {
+    text-indent: 20px;
+    margin-bottom: 20px;
 }
 
 footer {
@@ -101,9 +100,4 @@ footer {
     text-align: center;
     padding: 10px 0;
     width: 100%;
-}
-
-p {
-    text-indent: 20px;
-    margin-bottom: 20px;
 }
