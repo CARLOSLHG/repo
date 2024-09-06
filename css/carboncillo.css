@@ -2,7 +2,7 @@
 
 
 header {
-    width: 100%;
+    width: 100%;    
     margin: 0 auto;    
 }
 
@@ -16,12 +16,12 @@ html, body {
     margin: 0 auto; 
     width: 80%;
     background-color: #c5c5c5;
-    background-image: url("./img/ojos.jpg");
+    background-image: url("https://carloslhg.github.io/algorithmics/img/ojos.jpg");
     background-size: 75%;
     background-position: left bottom;
     background-position-x: 280px;
     background-repeat: no-repeat;
-    box-shadow: 0px 0px 30px 30px rgba(0, 0, 0, 0.3);        
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
 }
 
 #logo {
@@ -38,14 +38,14 @@ html, body {
     text-align: right;
 }
 
-#titulo-secundario {
+h3 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 5px;
     font-size: 50px;
     color:#008B8B;    
 }
 
-#titulo-principal {
+h1 {
     font-family: "Indie Flower";
     font-weight: 400;
     font-style: normal;
@@ -71,9 +71,9 @@ main {
 
 #enunciado {    
     background-color: #fff;
-    background-image: url("./img/carbon4.jpg");
-    background-size: 80%;
-    background-position:center;
+    background-image:url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
+    background-size:100%;
+    background-position: center;
     background-position-x: right;
     background-repeat: no-repeat;       
 }
@@ -86,7 +86,7 @@ main {
     background-color: #333333;
     color: white;
     text-decoration: none;
-    border-radius: 0px;
+    border-radius: 0;
 }
 
 p {
