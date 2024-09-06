@@ -1,6 +1,6 @@
 #contenedor {
     margin: 0 auto; 
-    width: 1140px;
+    width: 80%;
     background-color: #c5c5c5;
     background-image: url("https://carloslhg.github.io/algorithmics/img/ojos.jpg");
     background-size: 75%;
@@ -67,14 +67,17 @@ body {
     min-height: 100vh;
 }
 
-#enunciado {
-    width: 100%;
-    margin: 0px auto;      
+#enunciado {    
+    background-color: #fff;
+    background-image: url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
+    background-size: 80%;
+    background-position:center;
+    background-position-x: right;
+    background-repeat: no-repeat;       
 }
 
 main{
-    flex-grow: 1;
-    padding-bottom: 20px;    
+    flex-grow: 1; 
 }
 
 #box-intro {
