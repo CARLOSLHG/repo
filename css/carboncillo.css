@@ -153,3 +153,19 @@ nav a:hover {
     text-align: center;
     padding: 0 0 200px 0;
 }
+
+#top-boton a {
+    text-decoration: 0;
+    color: white;
+    background-color: #333333;
+    border:3px solid white;
+    padding: 10px;
+    text-align: center;
+        
+}
+
+#top-boton a:hover {
+    background-color: #dcd9d9;
+    border:3px solid #333;
+    color: #333333;
+}
