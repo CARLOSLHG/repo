@@ -111,7 +111,7 @@ nav a {
     background-color: #333333;
     color: white;
     text-decoration: none;
-    border:3px solid #ffffff; 
+    border:3px solid #ffffff;
         
 }
 
@@ -124,26 +124,26 @@ nav a:hover {
 #enunciado div {
     max-width: 1140px;  
     margin: 0 auto;
-    padding: 100px 0 100px 0;
+    padding: 25px 10px 50px 10px;
 }
 
 #tecnicas div {
     max-width: 1140px;  
     margin: 0 auto;
-    padding: 0 0 100px 0;
+    padding: 0 10px 100px 10px;
 }
 
 #cursos div {
     max-width: 1140px;  
     margin: 0 auto;
-    padding: 50px 0 200px 0;
+    padding: 50px 10px 200px 10px;
 }
 
 #galeria div {
     max-width: 1140px;  
     margin: 0 auto;    
     text-align: center;
-    padding: 0 0 100px 0;
+    padding: 0 10px 100px 10px;
 }
 
 #top-boton a {
@@ -154,7 +154,7 @@ nav a:hover {
     background-color: #333333;
     color: white;
     text-decoration: none;
-    border:3px solid #ffffff;           
+    border:3px solid #ffffff;         
 }
 
 #top-boton a:hover {
