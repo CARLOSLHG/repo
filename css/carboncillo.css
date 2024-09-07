@@ -43,7 +43,7 @@ h3 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 5px;
     font-size: 50px;
-    color:#008B8B;    
+    color:#5f675f;    
 }
 
 #enunciado h1 {
@@ -116,9 +116,9 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #dcd9d9;
+    background-color: #c5c5c5;
     border:3px solid #333;
-    color: #333333;
+    color: #333;
 }
 
 #enunciado div {
@@ -158,9 +158,9 @@ nav a:hover {
 }
 
 #top-boton a:hover {
-    background-color: #dcd9d9;
+    background-color: #c5c5c5;
     border:3px solid #333;
-    color: #333333;
+    color: #333;
 }
 
 #top-boton {
