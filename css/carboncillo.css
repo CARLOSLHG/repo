@@ -147,3 +147,8 @@ nav a:hover {
     max-width: 1140px;  
     margin: 0 auto;
 }
+
+#galeria div {
+    margin: o auto;
+    text-align: center;
+}
