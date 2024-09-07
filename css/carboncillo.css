@@ -155,11 +155,14 @@ nav a:hover {
 }
 
 #top-boton a {
-    text-decoration: 0;
-    color: white;
+    font-family: Indie Flower;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 20px;
     background-color: #333333;
-    border:3px solid white;
-    padding: 10px;           
+    color: white;
+    text-decoration: none;
+    border-radius: 0;           
 }
 
 #top-boton a:hover {
