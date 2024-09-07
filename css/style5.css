@@ -70,10 +70,17 @@ main h3 {
 a {
     text-decoration: 0;
     color: white;
-    background-color: #5ce1ff;
-    border:2px solid #ffffff;
+    background-color: #0056b3;
+    border:3px solid white;
     border-radius: 20px;
     padding: 10px;
+        
+}
+
+a:hover {
+    background-color: #a7efff;
+    border:3px solid #0056b3;
+    color: #0056b3;
 }
 
 footer {
