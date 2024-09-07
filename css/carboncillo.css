@@ -87,17 +87,6 @@ main {
     margin: 0 auto;     
 }
 
-.boton-nav {
-    font-family: Indie Flower;
-    font-size: 20px;
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #333333;
-    color: white;
-    text-decoration: none;
-    border-radius: 0;
-}
-
 p {
     text-indent: 20px;
     margin-bottom: 20px;
