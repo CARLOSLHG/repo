@@ -77,12 +77,15 @@ main {
     max-width: 1140px; 
 }
 
-#enunciado {    
+#enunciado {  
+    width: 100%;
+    max-width: 1140px;   
     background-color: #fff;
     background-image:url("https://carloslhg.github.io/algorithmics/img/carbon4.jpg");
-    background-size:100%;
+    background-size: 1200px;
     background-position: center;
-    background-repeat: no-repeat;      
+    background-repeat: no-repeat; 
+    margin: 0 auto;     
 }
 
 .boton-nav {
@@ -115,34 +118,33 @@ nav a {
     color: white;
     background-color: #333333;
     border:3px solid white;
-    border-radius: 20px;
     padding: 10px;
         
 }
 
 nav a:hover {
     background-color: #dcd9d9;
-    border:3px solid #333333;
+    border:3px solid #333;
     color: #333333;
 }
 
 #enunciado div {
-    width: 900px;
+    max-width: 1140px;  
     margin: 0 auto;
     padding: 50px 0 0 0;
 }
 
 #tecnicas div {
-    width: 900px;
+    max-width: 1140px;  
     margin: 0 auto;
 }
 
 #cursos div {
-    width: 900px;
+    max-width: 1140px;  
     margin: 0 auto;
 }
 
 #galeria div {
-    width: 900px;
+    max-width: 1140px;  
     margin: 0 auto;
 }
