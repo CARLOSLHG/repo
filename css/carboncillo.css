@@ -132,7 +132,7 @@ nav a:hover {
 #enunciado div {
     max-width: 1140px;  
     margin: 0 auto;
-    padding: 150px 0 0 0;
+    padding: 200px 0 0 0;
 }
 
 #tecnicas div {
@@ -144,7 +144,7 @@ nav a:hover {
 #cursos div {
     max-width: 1140px;  
     margin: 0 auto;
-    padding: 50 0 150px 0;
+    padding: 50px 0 200px 0;
 }
 
 #galeria div {
