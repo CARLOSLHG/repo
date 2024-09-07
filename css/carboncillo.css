@@ -48,6 +48,7 @@ h3 {
 
 #enunciado h1 {
     font-family: "Indie Flower";
+    margin: 0 0 200px 0;
     text-shadow: 2px 2px 5px rgba(211, 247, 247, 0.7);
     font-weight: 400;
     font-style: normal;
@@ -70,11 +71,9 @@ body {
 }
 
 main {
-    flex-grow: 1; 
-    justify-content: center;
-    align-items: center;
     width: 100%;
-    max-width: 1140px; 
+    max-width: 1140px;    
+    margin: 0 auto; 
 }
 
 #enunciado {  
@@ -131,7 +130,7 @@ nav a:hover {
 #enunciado div {
     max-width: 1140px;  
     margin: 0 auto;
-    padding: 50px 0 0 0;
+    padding: 100px 0 0 0;
 }
 
 #tecnicas div {
