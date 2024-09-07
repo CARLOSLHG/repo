@@ -111,7 +111,7 @@ nav a {
     background-color: #333333;
     color: white;
     text-decoration: none;
-    border-radius: 0; 
+    border:3px solid #ffffff; 
         
 }
 
@@ -154,7 +154,7 @@ nav a:hover {
     background-color: #333333;
     color: white;
     text-decoration: none;
-    border-radius: 0;           
+    border:3px solid #ffffff;           
 }
 
 #top-boton a:hover {
