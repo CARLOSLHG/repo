@@ -159,13 +159,16 @@ nav a:hover {
     color: white;
     background-color: #333333;
     border:3px solid white;
-    padding: 10px;
-    text-align: center;
-        
+    padding: 10px;           
 }
 
 #top-boton a:hover {
     background-color: #dcd9d9;
     border:3px solid #333;
     color: #333333;
+}
+
+#top-boton {
+    text-align: center;
+    padding: 5px;    
 }
