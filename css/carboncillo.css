@@ -14,10 +14,10 @@ html, body {
 
 #contenedor {
     margin: 0 auto; 
-    width: 80%;
+    width: 900px;
     background-color: #c5c5c5;
     background-image: url("https://carloslhg.github.io/algorithmics/img/ojos.jpg");
-    background-size: 75%;
+    background-size: 90%;
     background-position: left bottom;
     background-position-x: 280px;
     background-repeat: no-repeat;
@@ -45,12 +45,14 @@ h3 {
     color:#008B8B;    
 }
 
-h1 {
+#enunciado h1 {
     font-family: "Indie Flower";
+    text-shadow: 2px 2px 5px rgba(211, 247, 247, 0.7);
     font-weight: 400;
     font-style: normal;
-    font-size: 100px;
-    color: #333333;
+    font-size: 90px;
+    color: #333;
+    
 }
 
 html, body {
@@ -123,6 +125,7 @@ nav a:hover {
 #enunciado div {
     width: 900px;
     margin: 0 auto;
+    padding: 50px 0 0 0;
 }
 
 #tecnicas div {
