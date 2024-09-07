@@ -138,20 +138,20 @@ nav a:hover {
 #tecnicas div {
     max-width: 1140px;  
     margin: 0 auto;
-    padding: 100px 0 150px 0;
+    padding: 0 0 100px 0;
 }
 
 #cursos div {
     max-width: 1140px;  
     margin: 0 auto;
-    padding: 0 0 150px 0;
+    padding: 0 0 100px 0;
 }
 
 #galeria div {
     max-width: 1140px;  
     margin: 0 auto;    
     text-align: center;
-    padding: 0 0 150px 0;
+    padding: 0 0 100px 0;
 }
 
 #top-boton a {
