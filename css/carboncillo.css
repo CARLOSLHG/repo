@@ -101,3 +101,19 @@ footer {
     padding: 10px 0;
     width: 100%;
 }
+
+nav a {
+    text-decoration: 0;
+    color: white;
+    background-color: #333333;
+    border:3px solid white;
+    border-radius: 20px;
+    padding: 10px;
+        
+}
+
+ nav a:hover {
+    background-color: #dcd9d9;
+    border:3px solid #333333;
+    color: #333333;
+}
