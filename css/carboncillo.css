@@ -105,6 +105,7 @@ p {
 
 footer {
     background-color: #333;
+    background-position: center;
     color: white;
     text-align: center;
     padding: 10px 0;
