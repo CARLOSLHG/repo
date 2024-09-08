@@ -43,7 +43,8 @@ h3 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 100px 0 0 0;
     font-size: 50px;
-    color:#5f675f;    
+    color:#5f675f;
+    margin: 0 auto;    
 }
 
 #enunciado h1 {
