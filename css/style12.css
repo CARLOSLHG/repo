@@ -48,5 +48,6 @@ footer {
 
 main p {
     border-left:10px dotted darkcyan;
-    border-right:10px dotted darkcyan;    
+    border-right:10px dotted darkcyan;
+    width: 1140px;
 }
