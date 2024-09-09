@@ -4,5 +4,5 @@
 # Agregar un Video a la página en WIX
 # https://chcarlos3.wixsite.com/carlosluis-miblog/videos
 
-# Agregar una Galeria en WIX
+# Agregar una imagen en la página en WIX
 # https://chcarlos3.wixsite.com/carlosluis-miblog/galeria
