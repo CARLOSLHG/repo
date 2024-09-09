@@ -1,3 +1,3 @@
-# Pagina Web en WIX
+# Página Web en WIX
 
 # https://chcarlos3.wixsite.com/carlosluis-miblog
