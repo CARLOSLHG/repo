@@ -23,6 +23,7 @@ main p {
 }
 
 table {
+    align: center;
     border-collapse: collapse;
     text-align: center;
     font-size: 20px;
