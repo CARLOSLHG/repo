@@ -18,7 +18,7 @@ html, body {
     background-color: #c5c5c5;
     background-image: url("../../img/ojos.jpg");
     background-size: 90%;
-    background-position: left top;
+    background-position: left bottom;
     background-position-x: 280px;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
