@@ -1,5 +1,5 @@
 header {
-    width: 80%;
+    width: 70%;
     height: 60px;
     border: 2px solid #c9c9c9;
     background-color:#ffffff;
@@ -90,7 +90,7 @@ h2 {
 }
 
 footer {
-    width: 80%;
+    width: 70%;
     border: 1px solid #d8aeff;
     border-radius: 25px;
     padding: 0;
