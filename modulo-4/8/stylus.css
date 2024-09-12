@@ -137,6 +137,8 @@ footer p {
 }
 
 .fireworks {
+    width: 75%;
+    max-width: 1140px;
     border: 1px solid olivedrab;
     border-radius: 10px;
     padding: 10px;
@@ -145,7 +147,7 @@ footer p {
 .fireworks p {
     display: block;
     height: 100px;
-    width: 1140px;
+    width: auto;
     background-color: #c1db8d;
     border: 10px solid white;
     text-align: left;
@@ -201,4 +203,3 @@ main {
     padding: 0 5px 0 5px;
     margin: 5px;
 }
-
