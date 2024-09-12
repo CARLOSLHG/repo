@@ -158,7 +158,7 @@ footer p {
 
 main {
     width: 75%;
-    max-width: 1200px;
+    max-width: 1140px;
     margin: 20px auto;
     padding: 20px; 
     background-color: white;        
@@ -174,24 +174,28 @@ main {
 }
 
 .seccion2 {
-    display: block;
+    width: 75%;
+    max-width: 1140px;
     text-align: left;
 }
 
 .seccion3 .fireworks {
-    display: block;
+    width: 75%;
+    max-width: 1140px;
     text-align: left;
 }
 
 .seccion4 img {
-    display: block;
+    width: 75%;
+    max-width: 1140px;
     text-align: left;
     border: 1px solid blue;
     border-radius: 20px;
 }
 
 .seccion5 {
-    display: block;
+    width: 75%;
+    max-width: 1140px;
     border: 1px solid blue;
     padding: 20px;
     border-radius: 20px;
