@@ -88,6 +88,8 @@ h2 {
 }
 
 footer {
+    width: 100%;
+    max-width: 1200px;
     border: 1px solid rgb(44, 44, 44);
     border-radius: 25px;
     padding: 0;
