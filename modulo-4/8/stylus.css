@@ -5,7 +5,7 @@ header {
     background-color:#ffffff;
     margin: 0 auto; 
     padding-bottom: 20px;
-    border-radius: 25px;      
+    border-radius: 25px;     
 }
 
 #logo {
@@ -80,7 +80,8 @@ nav a:hover {
 h1 {
     color: blueviolet;
     font-weight: normal;
-    text-align: center;    
+    text-align: center;
+    text-transform: uppercase;    
 }
 
 h2 {
@@ -90,7 +91,7 @@ h2 {
 
 footer {
     width: 80%;
-    border: 1px solid rgb(44, 44, 44);
+    border: 1px solid #d8aeff;
     border-radius: 25px;
     padding: 0;
     text-align: right;
@@ -102,7 +103,7 @@ footer {
     justify-content: flex-end;
     flex-direction: column;
     align-items: flex-end;
-    width: 80%; 
+    width: 100%; 
 }
 
 #contacts1 {
@@ -166,7 +167,7 @@ main {
     flex-direction: column;
     justify-content: space-between;
     gap: 10px;
-    height: 120px;
+    height: 140px;
     margin: 10px 20px;
 }
 
@@ -194,5 +195,10 @@ main {
     border-radius: 20px;
     margin: 20px 0 20px 0;
     text-align: left;
+}
+
+.icon {
+    padding: 0 5px 0 5px;
+    margin: 5px;
 }
 
