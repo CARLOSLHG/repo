@@ -1,4 +1,6 @@
 header {
+    width: 100%;
+    max-width: 1200px;
     height: 60px;
     border: 2px solid #c9c9c9;
     background-color:#ffffff;
