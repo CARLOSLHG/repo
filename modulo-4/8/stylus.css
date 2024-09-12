@@ -1,0 +1,196 @@
+header {
+    height: 60px;
+    border: 2px solid #c9c9c9;
+    background-color:#ffffff;
+    margin: 0 center; 
+    padding-bottom: 20px;
+    border-radius: 25px;      
+}
+
+#logo {
+    background-color: white;
+    height:40px;
+    margin: 0 ; 
+    text-align: left;
+    padding: 5px;
+    z-index: 1000;        
+}
+
+p {
+    font-size: 20px;
+    background-color: white;
+    height:40px;
+    margin: 0 ; 
+    text-align: left;
+    padding: 5px 10px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    align-items: center; 
+    background-color: #ffffff;
+    border: 1px solid #c9c9c9;
+    border-radius: 10px 10px 0 0;
+    margin: o auto;
+    height: 80px;
+    text-align: left; 
+}
+
+a {  
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    border: 3px solid darkblue;
+    text-decoration: none;
+    width: 120px;    
+    transition: background-color 0.3s ease;
+}
+
+nav a {  
+    display: block;
+    text-align: center;
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border: 3px solid white;
+    text-decoration: none;
+    width: 160px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    border: 3px solid blue;
+}
+
+h1 {
+    color: blueviolet;
+    font-weight: normal;
+    text-align: center;    
+}
+
+h2 {
+    font-size: 40px;
+    color: blue;
+}
+
+footer {
+    border: 1px solid rgb(44, 44, 44);
+    border-radius: 25px;
+    padding: 0;
+    text-align: right;
+    margin: 0 right;
+}
+
+.contactos {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 100%; 
+}
+
+#contacts1 {
+    text-indent: 40px;
+    border-collapse: separate;
+    border: 10px solid #d8aeff;
+    text-align: left;
+    width: 90%;
+    border-radius: 0 25px 0 0;
+}
+
+#contacts2 {
+    border-left: 10px solid #d8aeff;
+    border-right: 10px solid #d8aeff;
+    border-bottom: 10px solid #d8aeff;
+    text-align: left;
+    width: 90%;    
+}
+
+#contacts3 {
+    border-left: 10px solid #d8aeff;
+    border-right: 10px solid #d8aeff;
+    border-bottom: 10px solid #d8aeff;
+    border-radius: 0 0 25px 0;
+    text-align: left;
+    width: 90%;    
+}
+
+footer p {
+    font-size: 30px;
+}
+
+.fireworks {
+    border: 1px solid olivedrab;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.fireworks p {
+    display: block;
+    height: 100px;
+    width: 1140px;
+    background-color: #c1db8d;
+    border: 10px solid white;
+    text-align: left;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+main {
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px; 
+    background-color: white;        
+}
+
+.seccion1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    height: 120px;
+    margin: 10px 20px;
+}
+
+.seccion2 {
+    display: block;
+    text-align: left;
+}
+
+.seccion3 .fireworks {
+    display: block;
+    text-align: left;
+}
+
+.seccion4 img {
+    display: block;
+    text-align: left;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+
+.seccion5 {
+    display: block;
+    border: 1px solid blue;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px 0 20px 0;
+    text-align: left;
+}
+
