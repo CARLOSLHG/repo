@@ -1,0 +1,267 @@
+/* listado css de la pagina */
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+body, header, main, footer {    
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    max-width: 1140px; 
+    padding: 0 auto;
+    margin: 0 auto;    
+}
+
+footer {    
+    background-color: #333;
+    padding: 10px 0 10px 0;
+    margin: 0 auto;    
+    height: 100px;
+    box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3); 
+    z-index: 1;
+}
+
+.inicio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    background-color: #c5c5c5;
+    background-image: url("../img/ojos_v5.webp");
+    background-size: 90%;
+    background-position: right;
+    background-position-x: 250;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3); 
+    z-index: 1;
+}
+
+.cursos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto; 
+    width: auto;
+    background-color: #c5c5c5;
+    background-image: url("../img/cursos_v2.webp");
+    background-size: 100%;
+    background-position: 80px -120px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
+}
+
+.tecnicas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto; 
+    width: auto;
+    background-color: #c5c5c5;
+    background-image: url("../img/tecnica_v3.webp");
+    background-size: 100%;
+    background-position: bottom right;    
+    background-repeat: no-repeat;
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
+}
+
+.galeria {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto; 
+    width: auto;
+    background-color: #c5c5c5;
+    background-image: url("../img/galeria_v3.webp");
+    background-size: 100%;
+    background-position: 250px -330px;    
+    background-repeat: no-repeat;
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
+}
+
+.contactanos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto; 
+    width: auto;
+    background-color: #c5c5c5;
+    background-image: url("../img/contactanos_v2.webp");
+    background-size: 100%;
+    background-position: 150px -40px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
+}
+
+#box-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:0;
+    background-color: #c5c5c5;
+    width: 280px;
+    height: 200px;
+    text-align: center;
+    padding: 0;
+    z-index: 1000;
+}
+
+#logo {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 160px;
+    justify-content: center;
+    text-align: center;
+    padding: 0 auto;
+    z-index: 1000;
+}
+
+#nav {
+    display: flex;
+    justify-content: flex-end;
+    font-size-adjust: none;
+    height: 70px;
+    align-items: center;
+    text-align: right;
+    background-color: #f4f4f4;
+    padding: 10px;  
+    
+}
+
+#bienvenida { 
+    text-align: left;
+    width: 100%;
+    max-width: 1140px;   
+    background-color: #fff;
+    background-image: url("../img/carbon4.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat; 
+    margin: 0 auto;     
+}
+
+#bienvenida h1 {
+    text-align: left;
+    font-family: "Indie Flower";
+    margin: 0 0 200px 0;
+    text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.7);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 90px;
+    color: #333;    
+}
+
+main {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column; 
+    height: 100vh;
+    width: 100%;
+}
+
+h3 {
+    text-align: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 100px 0 0 0;
+    font-size: 50px;
+    color:#5f675f;
+    margin: 0 auto;    
+}
+
+p { 
+    font-family: "Poiret One", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    text-indent: 20px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    font-size: 20px;
+    color: white;
+}
+
+#nav a {
+    font-family: Indie Flower;
+    font-size: 20px;
+    text-align: right;
+    padding: 10px 20px;
+    background-color: #333333;
+    color: white;
+    text-decoration: none;
+    border:3px solid #ffffff;        
+}
+
+#nav a:hover {
+    background-color: #c5c5c5;
+    border:3px solid #333;
+    color: #333;
+}
+
+#nav li {
+    display: inline;
+    float: right;
+    list-style: none;
+    align-items: center;   
+    
+}
+
+#bienvenida div {
+    max-width: 1140px;  
+    margin: 0 auto;
+    padding: 25px 10px 10px 10px;
+}
+
+#tecnicas div {
+    max-width: 1140px;  
+    margin: 0 auto;
+    padding: 0 10px 100px 10px;
+}
+
+#cursos div {
+    max-width: 1140px;  
+    margin: 0 auto;
+    padding: 25px 10px 200px 10px;
+}
+
+#galeria div {
+    max-width: 1140px;  
+    margin: 0 auto;    
+    text-align: center;
+    padding: 0 10px 100px 10px;
+}
+
+#top-boton a {
+    font-family: Indie Flower;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 20px;    
+    background-color: #333333;
+    color: white;
+    text-decoration: none;
+    border:3px solid #ffffff;         
+}
+
+#top-boton a:hover {
+    background-color: #c5c5c5;
+    border:3px solid #333;
+    color: #333;
+}
+
+#top-boton {
+    display: inline-block;
+    margin-top: auto;
+    padding-bottom: 50px;
+}
+
+
+
