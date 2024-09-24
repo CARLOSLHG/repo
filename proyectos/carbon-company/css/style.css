@@ -136,7 +136,31 @@ footer {
     
 }
 
-#bienvenida { 
+#bienvenida {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+#bienvenida::Before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;  
+    background-color: #fff;
+    background-image: url("../img/carbon4.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;    
+    margin: 0 auto; 
+    filter: blur(3px);
+    z-index: -1;
+}
+
+.bienvenida { 
     text-align: left;
     width: 100%;
     max-width: 1140px;   
@@ -144,15 +168,15 @@ footer {
     background-image: url("../img/carbon4.jpg");
     background-size: 100%;
     background-position: center;
-    background-repeat: no-repeat;     
-    margin: 0 auto;     
+    background-repeat: no-repeat;    
+    margin: 0;     
 }
 
 #bienvenida h1 {
     text-align: left;
     font-family: "Indie Flower";
-    margin: 0 0 200px 0;
-    text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.7);
+    margin: 0 0 200px 20px;
+    text-shadow: 2px 2px 5px rgba(255, 247, 247, 0.5);
     font-weight: 400;
     font-style: normal;
     font-size: 90px;
@@ -173,7 +197,7 @@ h3 {
     padding: 100px 0 0 0;
     font-size: 50px;
     color:#5f675f;
-    margin: 0 auto;    
+    margin: 0 0 0 20px;    
 }
 
 p { 
@@ -262,6 +286,3 @@ footer p {
     margin-top: auto;
     padding-bottom: 50px;
 }
-
-
-
