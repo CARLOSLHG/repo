@@ -41,6 +41,7 @@ footer {
     background-position-x: 250;
     background-repeat: no-repeat;
     box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3); 
+    filter: blur(10px);
     z-index: 1;
 }
 
