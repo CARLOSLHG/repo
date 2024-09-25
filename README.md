@@ -1,3 +1,3 @@
 # algorithmics
-Repositorio de los cursos de diseño web
+## Repositorio de los cursos de diseño web
 
