@@ -129,7 +129,7 @@ p {
 }
 
 #separate-box-1 {
-    height: 10px;    
+    height: 100px;    
 }
 
 #separate-box-bottom {
@@ -163,7 +163,7 @@ footer {
     background-position: right;
     background-position-x: 250;
     background-repeat: no-repeat;    
-    z-index: 1;
+    z-index: 100;
 }
 
 #bienvenida {
@@ -246,8 +246,7 @@ footer {
 .bienv {
     display: flex;    
     width: 100%;
-    margin-top: 25px;
-    z-index: 1;
+    margin-top: 25px;    
 }
 
 .bienv-box-1 {
@@ -310,7 +309,6 @@ footer {
 
 
 
-
 /*Pagina Cursos */
 
 .cursos {
@@ -334,7 +332,6 @@ footer {
 }
 
 
-
 /*Pagina Tecnicas */
 
 .tecnicas {
@@ -347,8 +344,7 @@ footer {
     background-image: url("../img/tecnica_v3.webp");
     background-size: 100%;
     background-position: bottom right;    
-    background-repeat: no-repeat;
-           
+    background-repeat: no-repeat;           
 }
 
 #tecnicas div {
@@ -371,8 +367,7 @@ footer {
     background-image: url("../img/galeria_v3.webp");
     background-size: 100%;
     background-position: 250px -330px;    
-    background-repeat: no-repeat;
-           
+    background-repeat: no-repeat;           
 }
 
 #galeria div {
@@ -381,7 +376,6 @@ footer {
     text-align: center;
     padding: 0 10px 100px 10px;
 }
-
 
 
 /*Pagina Contactanos */
@@ -396,6 +390,5 @@ footer {
     background-image: url("../img/contactanos_v2.webp");
     background-size: 100%;
     background-position: 150px -40px;
-    background-repeat: no-repeat;
-           
+    background-repeat: no-repeat;           
 }
