@@ -20,12 +20,14 @@ body, header, main, footer {
 }
 
 body {
-    background-color: white; 
-    box-shadow: 0 20px 0 20px rgba(0, 0, 0, 0.3);
+    background-color: white;
+    box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3); 
+    
 }
 
 main {
-    background-color: white;    
+    background-color: white;  
+    
 }
 
 footer {    
@@ -47,7 +49,7 @@ footer {
     background-position: right;
     background-position-x: 250;
     background-repeat: no-repeat;
-    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3); 
+    
     z-index: 1;
 }
 
@@ -62,7 +64,7 @@ footer {
     background-size: 100%;
     background-position: 80px -120px;
     background-repeat: no-repeat;
-    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
+           
 }
 
 .tecnicas {
@@ -76,7 +78,7 @@ footer {
     background-size: 100%;
     background-position: bottom right;    
     background-repeat: no-repeat;
-    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
+           
 }
 
 .galeria {
@@ -90,7 +92,7 @@ footer {
     background-size: 100%;
     background-position: 250px -330px;    
     background-repeat: no-repeat;
-    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
+           
 }
 
 .contactanos {
@@ -104,7 +106,7 @@ footer {
     background-size: 100%;
     background-position: 150px -40px;
     background-repeat: no-repeat;
-    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.3);        
+           
 }
 
 #box-logo {
@@ -198,7 +200,7 @@ main {
     width: 100%;    
 }
 
-h3 {
+#bienvenida h3 {
     text-align: left;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 100px 0 0 0;
