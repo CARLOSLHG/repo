@@ -10,6 +10,6 @@ function cambiarColorFondo() {
     } else if (body.style.backgroundColor == 'lightgray') {
         body.style.backgroundColor = '#333';
     } else {
-        body.style.backgroundColor = 'white';
+        body.style.backgroundColor = 'lightgray';
     }
 }
