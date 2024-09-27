@@ -20,7 +20,8 @@ body, header, main, footer {
 }
 
 body {
-    background-color: white;    
+    background-color: white; 
+    box-shadow: 0 20px 0 20px rgba(0, 0, 0, 0.3);
 }
 
 main {
