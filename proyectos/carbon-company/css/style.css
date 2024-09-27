@@ -17,7 +17,15 @@ body, header, main, footer {
     width: 100%;
     max-width: 1140px; 
     padding: 0 auto;
-    margin: 0 auto;    
+    margin: 0 auto;     
+}
+
+body {
+    background-color: white;    
+}
+
+main {
+    background-color: white;    
 }
 
 footer {    
@@ -26,7 +34,6 @@ footer {
     margin: 0 auto;    
     height: 100px;
     box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3); 
-    z-index: 1;
 }
 
 .inicio {
@@ -132,8 +139,7 @@ footer {
     align-items: center;
     text-align: right;
     background-color: #f4f4f4;
-    padding: 10px;  
-    
+    padding: 10px;    
 }
 
 #bienvenida {
@@ -141,6 +147,7 @@ footer {
     width: 100%;
     height: 400px;
     overflow: hidden;
+    z-index: 2;
 }
 
 #bienvenida::Before {
@@ -180,7 +187,7 @@ footer {
     font-weight: 400;
     font-style: normal;
     font-size: 90px;
-    color: #333;    
+    color: #333;      
 }
 
 main {
@@ -188,7 +195,7 @@ main {
     justify-content: flex-start;
     flex-direction: column; 
     height: 100vh;
-    width: 100%;
+    width: 100%;    
 }
 
 h3 {
