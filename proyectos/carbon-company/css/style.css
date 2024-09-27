@@ -1,3 +1,6 @@
+
+/* Estilos Generales Todas las paginas */
+
 * {
     text-align: center;
     margin: 0;
@@ -12,6 +15,7 @@ html {
 body, header, main, footer {    
     display: block;
     justify-content: center;
+    font-family: poppins;
     text-align: center;
     width: 100%;
     max-width: 1140px; 
@@ -21,92 +25,7 @@ body, header, main, footer {
 
 body {
     background-color: white;
-    box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3); 
-    
-}
-
-main {
-    background-color: white;  
-    
-}
-
-footer {    
-    background-color: #333;
-    padding: 10px 0 10px 0;
-    margin: 0 auto;    
-    height: 100px;
-    box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3); 
-}
-
-.inicio {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 100%;
-    background-color: #c5c5c5;
-    background-image: url("../img/ojos_v5.webp");
-    background-size: 90%;
-    background-position: right;
-    background-position-x: 250;
-    background-repeat: no-repeat;
-    
-    z-index: 1;
-}
-
-.cursos {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 0 auto; 
-    width: auto;
-    background-color: #c5c5c5;
-    background-image: url("../img/cursos_v2.webp");
-    background-size: 100%;
-    background-position: 80px -120px;
-    background-repeat: no-repeat;
-           
-}
-
-.tecnicas {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 0 auto; 
-    width: auto;
-    background-color: #c5c5c5;
-    background-image: url("../img/tecnica_v3.webp");
-    background-size: 100%;
-    background-position: bottom right;    
-    background-repeat: no-repeat;
-           
-}
-
-.galeria {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 0 auto; 
-    width: auto;
-    background-color: #c5c5c5;
-    background-image: url("../img/galeria_v3.webp");
-    background-size: 100%;
-    background-position: 250px -330px;    
-    background-repeat: no-repeat;
-           
-}
-
-.contactanos {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 0 auto; 
-    width: auto;
-    background-color: #c5c5c5;
-    background-image: url("../img/contactanos_v2.webp");
-    background-size: 100%;
-    background-position: 150px -40px;
-    background-repeat: no-repeat;
-           
+    box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3);    
 }
 
 #box-logo {
@@ -144,85 +63,6 @@ footer {
     padding: 10px;    
 }
 
-#bienvenida {
-    position: relative;
-    width: 100%;
-    height: 400px;
-    overflow: hidden;
-    z-index: 2;
-}
-
-#bienvenida::Before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;  
-    background-color: #fff;
-    background-image: url("../img/carbon4.jpg");
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;    
-    margin: 0 auto; 
-    filter: blur(3px);
-    z-index: -1;
-}
-
-.bienvenida { 
-    text-align: left;
-    width: 100%;
-    max-width: 1140px;   
-    background-color: #fff;
-    background-image: url("../img/carbon4.jpg");
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;    
-    margin: 0;     
-}
-
-#bienvenida h1 {
-    text-align: left;
-    font-family: "Indie Flower";
-    margin: 0 0 200px 20px;
-    text-shadow: 2px 2px 5px rgba(255, 247, 247, 0.5);
-    font-weight: 400;
-    font-style: normal;
-    font-size: 90px;
-    color: #333;      
-}
-
-main {
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column; 
-    height: 100vh;
-    width: 100%;    
-}
-
-#bienvenida h3 {
-    text-align: left;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    padding: 100px 0 0 0;
-    font-size: 50px;
-    color:#5f675f;
-    margin: 0 0 0 20px;    
-}
-
-p { 
-    font-family: "Poiret One", sans-serif;
-    font-size: 40px;
-    font-weight: 400;
-    font-style: normal;
-    text-indent: 20px;
-    margin-bottom: 20px;
-}
-
-footer p {
-    font-size: 20px;
-    color: white;
-}
-
 #nav a {
     font-family: Indie Flower;
     font-size: 20px;
@@ -244,33 +84,25 @@ footer p {
     display: inline;
     float: right;
     list-style: none;
-    align-items: center;   
-    
+    align-items: center;     
 }
 
-#bienvenida div {
-    max-width: 1140px;  
-    margin: 0 auto;
-    padding: 25px 10px 10px 10px;
+main {
+    display: flex;
+    justify-content: flex-start;
+    background-color: white;  
+    flex-direction: column; 
+    height: 100vh;
+    width: 100%;    
 }
 
-#tecnicas div {
-    max-width: 1140px;  
-    margin: 0 auto;
-    padding: 0 10px 100px 10px;
-}
-
-#cursos div {
-    max-width: 1140px;  
-    margin: 0 auto;
-    padding: 25px 10px 200px 10px;
-}
-
-#galeria div {
-    max-width: 1140px;  
-    margin: 0 auto;    
-    text-align: center;
-    padding: 0 10px 100px 10px;
+p { 
+    font-family: "Poiret One", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    text-indent: 20px;
+    margin-bottom: 20px;
 }
 
 #top-boton a {
@@ -294,4 +126,267 @@ footer p {
     display: inline-block;
     margin-top: auto;
     padding-bottom: 50px;
+}
+
+footer p {
+    font-size: 20px;
+    color: white;
+}
+
+footer {    
+    background-color: #333;
+    padding: 10px 0 10px 0;
+    margin: 0 auto;    
+    height: 100px;
+    box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3); 
+}
+
+
+/* Pagina Principal */
+
+.inicio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    background-color: #c5c5c5;
+    background-image: url("../img/ojos_v5.webp");
+    background-size: 90%;
+    background-position: right;
+    background-position-x: 250;
+    background-repeat: no-repeat;    
+    z-index: 1;
+}
+
+#bienvenida {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+    z-index: 1;
+}
+
+#bienvenida::Before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;  
+    background-color: #fff;
+    background-image: url("../img/carbon4.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;    
+    margin: 0, auto; 
+    filter: blur(3px);
+    z-index: -1;
+}
+
+#introduccion1 {
+    display: flex;
+    position: fixed;
+    margin: 10px;
+}
+
+#introduccion {
+    padding: 0;
+    margin: 0;
+}
+
+.bienvenida {
+    text-align: left;
+    width: 100%;
+    max-width: 1140px;   
+    background-color: #fff;
+    background-image: url("../img/carbon4.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;    
+    margin: 0, auto;       
+}
+
+#bienvenida h1 {
+    text-align: left;
+    font-family: "Indie Flower";
+    margin: 0 0 20px 20px;
+    text-shadow: 2px 2px 5px rgba(255, 247, 247, 0.5);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 90px;
+    color: #333;      
+}
+
+#bienvenida h3 {
+    text-align: left;
+    font-family: "Poiret One";
+    font-weight: bolder;
+    padding: 100px 0 0 0;
+    font-size: 50px;
+    color:#5f675f;
+    margin: 0 0 0 20px;    
+}
+
+.container-index {
+    display: flex;    
+    max-width: 1140px;  
+    margin: 0, auto;   
+    padding: 0, auto;    
+}
+
+.bienv {
+    display: flex;    
+    width: 100%;
+    margin-top: 25px;
+    z-index: 1;
+}
+
+.bienv-box-1 {
+    width: 100%;    
+}
+
+.bienv-box-1 h2 {
+    font-family: "Poiret One";
+    color: #333;
+    font-size: 38px;
+    text-align: right;
+    padding: inherit;
+}
+
+.bienv-box-1 p {
+    color: #333;
+    font-size: 25px;
+    text-align: right;
+    padding-top: 20px;
+}
+
+.bienv-box-2 img {
+    width: 70%;
+    margin: 0;
+    padding: 0;
+}
+
+.bienv-col-der {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    float: left;
+    background-color: antiquewhite;
+}
+
+.bienv-col-der h2 {
+    font-family: "Poiret One";
+    color: #333;
+    font-size: 38px;
+    text-align: left;
+    padding: 20px;
+}
+
+.bienv-col-der span {
+    color: #333;
+    font-size: 20px;
+    text-align: left;
+    padding: 20px;
+}
+
+.bienv-col-izq {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    width: 50%;
+    float: right;
+    padding: 25px;
+    background-color: antiquewhite;
+}
+
+
+
+
+/*Pagina Cursos */
+
+.cursos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto; 
+    width: auto;
+    background-color: #c5c5c5;
+    background-image: url("../img/cursos_v2.webp");
+    background-size: 100%;
+    background-position: 80px -120px;
+    background-repeat: no-repeat;
+           
+}
+
+#cursos div {
+    max-width: 1140px;  
+    margin: 0 auto;
+    padding: 25px 10px 200px 10px;
+}
+
+
+
+/*Pagina Tecnicas */
+
+.tecnicas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto; 
+    width: auto;
+    background-color: #c5c5c5;
+    background-image: url("../img/tecnica_v3.webp");
+    background-size: 100%;
+    background-position: bottom right;    
+    background-repeat: no-repeat;
+           
+}
+
+#tecnicas div {
+    max-width: 1140px;  
+    margin: 0 auto;
+    padding: 0 10px 100px 10px;
+}
+
+
+
+/*Pagina Galeria */
+
+.galeria {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto; 
+    width: auto;
+    background-color: #c5c5c5;
+    background-image: url("../img/galeria_v3.webp");
+    background-size: 100%;
+    background-position: 250px -330px;    
+    background-repeat: no-repeat;
+           
+}
+
+#galeria div {
+    max-width: 1140px;  
+    margin: 0 auto;    
+    text-align: center;
+    padding: 0 10px 100px 10px;
+}
+
+
+
+/*Pagina Contactanos */
+
+.contactanos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto; 
+    width: auto;
+    background-color: #c5c5c5;
+    background-image: url("../img/contactanos_v2.webp");
+    background-size: 100%;
+    background-position: 150px -40px;
+    background-repeat: no-repeat;
+           
 }
