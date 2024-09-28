@@ -25,7 +25,8 @@ body, header, main, footer {
 
 body {
     background-color: white;
-    box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3);    
+    box-shadow: 0 20px 20px 20px rgba(0, 0, 0, 0.3);
+    height: 100vh;
 }
 
 #box-logo {
@@ -246,7 +247,7 @@ footer {
 .bienv {
     display: flex;
     object-position: center;
-    height: 450px;
+    height: 440px;
     width: 100%;
      
 }
@@ -270,7 +271,8 @@ footer {
     padding-top: 20px;
 }
 
-.bienv-box-2 img {
+
+.bienv-box-2 img {    
     width: 80%;
     margin: 0;
     padding: 0;
