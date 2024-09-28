@@ -1,3 +1,7 @@
-# algorithmics
-## Repositorio de los cursos de diseño web
+# Repositorio CarlosLHG
+## Proyectos
+## Cursos
+## Ejercicios
+## CV
+
 
