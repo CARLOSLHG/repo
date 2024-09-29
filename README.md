@@ -4,9 +4,9 @@
 
 **Nombre**: Carlos Luis Hernández Gutiérrez  
 **Ubicación**: Los Navalucillos, Toledo, España  
-**Email**: [mailto:chcarlos3@gmail.com]
+**Email**: [chcarlos3@gmail.com](mailto:chcarlos3@gmail.com)
 **LinkedIn**: [Carlos LHG LinkedIn](https://www.linkedin.com/in/carloslhg)  
-**Portafolio**: [Carlos LHG Portafolio](https://github.com/carloslhg/repo/)
+**Portafolio**: [Carlos LHG Portafolio](https://portafolio.carloslhg.com/)
 
 ---
 
@@ -56,6 +56,6 @@ Cada directorio incluye un archivo `README.md` propio con instrucciones específ
 
 ## Contacto
 
-Si deseas ponerte en contacto conmigo para consultas o colaboraciones, no dudes en escribirme a: [mailto:chcarlos3@gmail.com]
+Si deseas ponerte en contacto conmigo para consultas o colaboraciones, no dudes en escribirme a: [mi correo eléctronico](mailto:chcarlos3@gmail.com)
 
 ¡Gracias por visitar mi repositorio!
