@@ -2,11 +2,11 @@
 
 ## Datos Personales
 
-**Nombre**: Carlos LHG  
+**Nombre**: Carlos Luis Hernández Gutiérrez  
 **Ubicación**: Los Navalucillos, Toledo, España  
-**Email**: chcarlos3@gmail.com
+**Email**: [mailto:chcarlos3@gmail.com]
 **LinkedIn**: [Carlos LHG LinkedIn](https://www.linkedin.com/in/carloslhg)  
-**Portafolio**: [Carlos LHG Portafolio](https://github.com/carloslhg/repo/cv/)
+**Portafolio**: [Carlos LHG Portafolio](https://github.com/carloslhg/repo/)
 
 ---
 
@@ -56,6 +56,6 @@ Cada directorio incluye un archivo `README.md` propio con instrucciones específ
 
 ## Contacto
 
-Si deseas ponerte en contacto conmigo para consultas o colaboraciones, no dudes en escribirme a: carloslhg@example.com
+Si deseas ponerte en contacto conmigo para consultas o colaboraciones, no dudes en escribirme a: [mailto:chcarlos3@gmail.com]
 
 ¡Gracias por visitar mi repositorio!
