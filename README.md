@@ -4,9 +4,9 @@
 
 **Nombre**: Carlos LHG  
 **Ubicación**: Los Navalucillos, Toledo, España  
-**Email**: carloslhg@example.com  
+**Email**: chcarlos3@gmail.com
 **LinkedIn**: [Carlos LHG LinkedIn](https://www.linkedin.com/in/carloslhg)  
-**Portafolio**: [Carlos LHG Portafolio](https://www.carloslhg-portfolio.com)
+**Portafolio**: [Carlos LHG Portafolio](https://github.com/carloslhg/repo/cv/)
 
 ---
 
