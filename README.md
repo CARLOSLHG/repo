@@ -16,25 +16,25 @@ Este repositorio contiene una colección de mis proyectos y ejercicios realizado
 
 ### Contenido del Repositorio
 
-1. **[HTML & CSS Projects](./html-css-projects/)**  
+1. **[HTML & CSS Projects](https://carloslhg.github.io/Repositorio/html-css-projects/)**  
    Colección de ejercicios y proyectos de diseño web utilizando HTML y CSS.
 
-2. **[JavaScript Exercises](./javascript-exercises/)**  
+2. **[JavaScript Exercises](https://carloslhg.github.io/Repositorio/javascript-exercises/)**  
    Scripts y soluciones para los ejercicios en JavaScript.
 
-3. **[Python Projects](./python-projects/)**  
+3. **[Python Projects](https://carloslhg.github.io/Repositorio/python-projects/)**  
    Proyectos en Python que incluyen análisis de datos, scripts y automatizaciones.
 
-4. **[R Scripts](./r-scripts/)**  
+4. **[R Scripts](https://carloslhg.github.io/Repositorio/r-scripts/)**  
    Ejercicios y proyectos realizados en R para análisis de datos y visualizaciones.
 
-5. **[WordPress Development](./wordpress-development/)**  
+5. **[WordPress Development](https://carloslhg.github.io/Repositorio/wordpress-development/)**  
    Ejemplos de proyectos y soluciones en WordPress para desarrollo web.
 
-6. **[Data Analysis Projects](./data-analysis-projects/)**  
+6. **[Data Analysis Projects](https://carloslhg.github.io/Repositorio/data-analysis-projects/)**  
    Proyectos de análisis de datos utilizando herramientas como Excel, SQL, R y Tableau.
 
-7. **[PSeint Exercises](./pseint-exercises/)**  
+7. **[PSeint Exercises](https://carloslhg.github.io/Repositorio/pseint-exercises/)**  
    Lógica de programación aplicada en ejercicios usando PSeint.
 
 ---
